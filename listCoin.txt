@@ -1,0 +1,60 @@
+BTC   => OK
+ETH   => OK
+ARPA  => OK 
+XRP   => OK 
+LINA  => OK 
+DOGE  => OK
+AGIX  => OK
+HIGH  => OK
+ARB   => OK
+CFX   => OK
+SOL   => OK
+MASK  => OK
+LTC   => OK
+NEO   => OK
+RNDR  => OK
+BEL   => OK
+EOS   => OK
+MATIC => OK
+BNB   => OK
+ADA   => OK
+SAND  => OK
+AVAX  => OK
+INJ   => OK
+SUI   => OK
+EDU   => OK
+AMB   => OK
+TRX   => OK
+PEPE  => OK
+OP    => OK
+COMBO => OK
+LEVER => OK
+LDO   => OK
+KEY   => OK
+SXP   => OK
+NKN   => OK
+APT   => OK
+MTL   => OK
+FIL   => OK
+TRU   => OK
+TOMO  => OK
+OCEAN => OK
+FTM
+BLUR
+IMX
+CRV
+GALA
+NEAR
+MAGIC 
+DOT 
+LINK 
+
+
+
+
+
+
+
+
+
+

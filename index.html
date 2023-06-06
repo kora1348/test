@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Crypto Ben Tiyeb</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <form>
+      <h3 class="red">Short - Calcul partiel</h3>
+      <label>Cours de départ</label>
+      <input type="text" id="departShort">
+      <input type="button" value="X (0.80)" onclick="calculShortPartiel()"> = 
+      <span id="coursResultatShortPartiel"></span>
+
+      <h3 class="red">Short - Calcul complet</h3>
+      <label>Cours de départ</label>
+      <input type="text" id="departShortComplet">
+      <input type="button" value="X" onclick="calculShortComplet()"> 
+      <label>Taux</label>
+      <input type="text" id="tauxShort"> = 
+      <span id="coursResultatShortComplet"></span>
+
+      <h3 class="green">Long - Calcul partiel</h3>
+      <label>Cours de départ</label>
+      <input type="text" id="departLong">
+      <input type="button" value="X (0.80)" onclick="calculLongPartiel()"> = 
+      <span id="coursResultatLongPartiel"></span>
+
+      <h3 class="green">Long - Calcul complet</h3>
+      <label>Cours de départ</label>
+      <input type="text" id="departLongComplet">
+      <input type="button" value="X" onclick="calculLongComplet()"> 
+      <label>Taux</label>
+      <input type="text" id="tauxLong"> = 
+      <span id="coursResultatLongComplet"></span>
+
+      <h3>Ajouter 2h45 (5 minutes)</h3>
+      <label for="heure5">Entrez une heure au format HH:MM :</label>
+      <input type="text" id="heure5" name="heure5" placeholder="HH:MM">
+      <button type="button" onclick="ajouterCinqMinutes()">Ajouter 2h45</button>
+      <p id="resultat5min"></p>
+
+      <h3>Ajouter 8h30 (15 minutes)</h3>
+      <label for="heure15">Entrez une heure au format HH:MM :</label>
+      <input type="text" id="heure15" name="heure15" placeholder="HH:MM">
+      <button type="button" onclick="ajouterQuinzeMinutes()">Ajouter 8h30</button>
+      <p id="resultat15min"></p>
+
+
+    </form>
+  <hr>
+    <ul>
+      <li><a href="minutes/test.html" target="_blank">2 Minutes(Test)</a> |</li>
+      <li><a href="minutes/5minutes.html" target="_blank">5 Minutes</a> |</li>
+      <li><a href="minutes/15minutes.html" target="_blank">15 Minutes</a> |</li>      
+      <li><a href="minutes/30minutes.html" target="_blank">30 Minutes</a></li>     
+    </ul>
+	 <hr>
+   <script src="calcul.js"></script>
+  </body>
+</html>

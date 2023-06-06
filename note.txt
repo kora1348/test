@@ -1,0 +1,28 @@
+
+120000  -> 02 minutes 
+300000  -> 05 minutes
+900000  -> 15 minutes 
+1800000 -> 30 minutes
+
+02 min = toutes les 02 minutes (..h02, ..h32, etc..)
+05 min = toutes les 50 minutes (..h50)
+15 min = toutes les 00 minutes (00h00) 
+
+
+---- 5 minutes ---- 
+
+1) - Je run à pille (17h00)
+
+2) - J'attends 45 min avant d'investir (17h45)  
+
+3) *** Sortir -> 2h45 plus tard (20h30) *** 
+
+---- 15 minutes ---- 
+
+1) - Je run à pille (18h00)
+
+2) - J'attends 2h15 avant d'investir (20h15)
+
+3) *** Sortir -> 8h30 plus tard (04h45) *** 
+
+
